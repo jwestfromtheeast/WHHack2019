@@ -1,0 +1,15 @@
+{
+  "name": "whhack-sample",
+  "version": "1.0.0",
+  "description": "Project to introduce Web Development to high school students at WHHack 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Justin Westley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
