@@ -14,9 +14,16 @@ const aboutJason = {
   major: "Computer Science"
 };
 
+const aboutJace = {
+	name: "Jace Beaudoin",
+	id: "13147160",
+	major: "Computer Science"
+};
+
 const allPeople = {
   justin: aboutJustin,
   jason: aboutJason
+  //jace: aboutJace
 };
 
 // When someone navigates to this address, do this
